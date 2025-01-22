@@ -1,0 +1,6 @@
+[submodule "SC-Mysteria"]
+	path = SC-Mysteria
+	url = https://github.com/WeTranscend-labs/SC-Mysteria.git
+[submodule "FE-Mysteria"]
+	path = FE-Mysteria
+	url = https://github.com/WeTranscend-labs/FE-Mysteria.git
